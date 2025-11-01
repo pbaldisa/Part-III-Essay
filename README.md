@@ -16,7 +16,7 @@ in such a way that certain locations are visited infinitely many times.
 
 This essay aims to explore some machinery that makes this result precise and provable. The fundamental tools are the intersection local times, presented in **2.Local times**. These are measures that 
 offer a rigorous way to quantify the time Brownian paths spend intersecting each other. Their construction is technically involved and may seem opaque at first, but we will see how these objects offer 
-deep insight into the structure of Brownian motion. Most results and ideas in this section are from Le Gall's book _Some properties of planar Brownian motion_and _Random walk intersections : 
+deep insight into the structure of Brownian motion. Most results and ideas in this section are from Le Gall's book _Some properties of planar Brownian motion_ and _Random walk intersections : 
 large deviations and related topics_ by  Chen. Before continuing, we end this part with a mention of local times for one dimensional Brownian motion, which are the original object that motivates their name, 
 and was first studied by Lévy.
 
